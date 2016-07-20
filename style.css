@@ -2,7 +2,7 @@
 header {
     width: 1000px;
     height: 72px;
-    background: #fffabe url("../assets/images/logo.png") no-repeat;
+    background: #fffabe url("assets/images/logo.png") no-repeat;
     background-position: 6% 50%;
 
 }
@@ -236,7 +236,7 @@ a {
 .midsection {
     max-width: 1000px;
     padding: 0;
-    background-image: url('../assets/images/our-macarons-background.png');
+    background-image: url('assets/images/our-macarons-background.png');
 }
 
 .divhalf {
