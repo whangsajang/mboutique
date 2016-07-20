@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html ng-app="routeApp">
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-route.min.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+<header>
+    <nav>
+        <ul class="menu">
+            <li><a href="#home.html">WELCOME</a></li>
+            <li><a href="#macroons">OUR MACARONS</a></li>
+            <li> <a href="#gift_parties2" >GIFTS & PARTIES</a></li>
+            <li> <a href="#contact">CONTACT</a></li>
+        </ul>
+    </nav>
+</header>
+<div ng-view>
+
+</div>
+<footer >
+    <div class="lastdiv">
+        <ul class="picfoot">
+            <li><img class="botimage" src="../assets/images/mail.png">order@mboutique.com</li>
+            <li><img class="botimage" src="../assets/images/phone.png">949.800-3111</li>
+            <li>Follow us<img class="botimage" src="../assets/images/facebook.png"><img class="botimage" src="../assets/images/twitter.png"></li>
+        </ul>
+        <h5 id="foottag">Copyright @2014 MBoutique. All rights reserved.</h5>
+    </div>
+</footer>
+</body>
+</html>

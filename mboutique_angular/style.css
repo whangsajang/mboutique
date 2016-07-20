@@ -1,0 +1,457 @@
+
+header {
+    width: 1000px;
+    height: 72px;
+    background: #fffabe url("../assets/images/logo.png") no-repeat;
+    background-position: 6% 50%;
+
+}
+
+nav {
+    position: relative;
+    float: right;
+}
+
+nav li:hover {
+    color: #d42551;
+}
+
+nav ul {
+    margin: 25px 40px;
+}
+
+.menu li {
+    display: inline;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-right: 20px;
+}
+
+.midimage {
+    position: relative;
+    float: left;
+    height: 40vh;
+    width: 25%;
+    padding: 30px 10px 0px 50px;
+    margin: 50px 0 50px 0;
+}
+
+.sec1 {
+    max-width: 900px;
+    padding: 20px;
+
+}
+
+.paragraph {
+    height: 52vh;
+}
+
+.paragraph h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #6a6969;
+    margin-bottom: 30px;
+
+}
+
+.paragraph p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #6a6969;
+    margin-bottom: 30px;
+
+}
+
+.lists {
+    list-style-type: none;
+    padding: 0;
+    width: 126px;
+    height: 140px;
+    margin: 20px 0 5px 0;
+    position: relative;
+}
+
+.lists li {
+    padding-left: 10px;
+}
+
+.week {
+    width: 100%;
+    max-width: 1000px;
+
+}
+
+.days {
+    display: inline-block;
+    background-color: #fffabe;
+    text-align: left;
+    padding-left: 0;
+    margin-left: 10px;
+}
+
+.fonttop {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #6a6969;
+    padding-bottom: 5px;
+}
+
+.fontbot {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #6a6969;
+    padding: 12px 0px;
+
+}
+
+#coconut {
+    background-color: #824603;
+    width: 92%;
+    height: 25px;
+    color: white;
+}
+
+#vanilla {
+    background-color: #df5277;
+    width: 92%;
+    height: 25px;
+    color: white;
+}
+
+#lemon {
+    background-color: #a2304e;
+    width: 92%;
+    height: 25px;
+    color: white;
+}
+
+#almond {
+    background-color: #c39005;
+    width: 92%;
+    height: 25px;
+    color: white;
+}
+
+.fontbot img {
+    float: right;
+    padding-right: 7px;
+}
+
+#firsth2tag {
+    padding-left: 40px;
+}
+
+#topscreen {
+    width: 1000px;
+    height: 400px;
+    margin-bottom: 50px;
+}
+
+.innner {
+    font-family: arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #6a6969;
+}
+
+.mid_page_content {
+    background: url("../assets/images/gifts-parties-background.png") no-repeat;
+    padding-left: 20px;
+    padding-top: 30px;
+    height: 50vh;
+}
+
+.h2tags {
+    font-family: arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: #6a6969;
+}
+
+a {
+    color: #df5277;
+}
+
+.paratags {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 16px;
+    color: #6a6969;
+    width: 960px;
+}
+
+#side {
+    width: 500px;
+}
+
+.mid {
+    margin-bottom: 200px;
+}
+
+.leftside {
+    width: 78%;
+    margin-right: -188px;
+}
+
+.leftside li {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+    color: #6a6969;
+    list-style-type: none;
+    padding: 3px;
+}
+
+.divider {
+    float: left;
+    height: 100%;
+}
+
+.divider h2 {
+    padding: 0 0 0 10px;
+}
+
+.midpic {
+    position: relative;
+    top: 68px;
+    margin-left: 80px;
+}
+
+.myforms {
+    width: 310px;
+    height: 35px;
+    background-color: #f5f5f5;
+    display: block;
+    margin: 10px;
+    border: none;
+}
+
+#mybutton {
+    width: 155px;
+    height: 36px;
+    background-color: #f5f5f5;
+    border: none;
+    float: right;
+    position: relative;
+    right: 5px;
+}
+
+.midsection {
+    max-width: 1000px;
+    padding: 0;
+    background-image: url('../assets/images/our-macarons-background.png');
+}
+
+.divhalf {
+    max-width: 1000px;
+    padding: 2% 3%;
+}
+
+.intro {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 20px;
+    color: #6a6969;
+    margin: 4% 0;
+}
+
+.info {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+    color: #6a6969;
+
+}
+
+.type li {
+    padding-bottom: 5px;
+}
+
+#macpic {
+    width: 75%;
+    height: auto;
+    float: right;
+    margin: 0 0 30px 0;
+}
+
+.flavors {
+    width: 25%;
+    float: left;
+    margin-right: 0;
+}
+
+.textbot {
+    clear: both;
+}
+
+.lastdiv {
+    width: 1000px;
+    height: 80px;
+    background-color: #df5277;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.picfoot li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0 50px 10px 50px;
+}
+
+.picfoot {
+    color: white;
+    position: relative;
+    top: 25px;
+    right: 50px;
+}
+
+.botimage {
+    padding: 0 10px;
+}
+
+#foottag {
+    color: white;
+    text-align: center;
+}
+
+@media only screen and (max-width: 667px) {
+    body {
+        margin: 0;
+    }
+
+    header {
+        width: 100%;
+        background-position: center;
+    }
+
+    nav {
+        position: relative;
+        width: 100%;
+    }
+
+    nav ul {
+        padding: 0;
+        margin: 50px 5px 5px 12px;
+    }
+
+    .menu li {
+        padding: 5px;
+        font-size: 11px;
+    }
+
+    .head img {
+        position: relative;
+        right: 20px;
+    }
+
+    #topscreen {
+        max-width: 100%;
+        height: 20%;
+        margin-bottom: 2%;
+    }
+
+    .midpic {
+        display: none;
+    }
+
+    .topimg {
+        width: 100%;
+    }
+
+    .h2tags {
+        font-size: 16px;
+    }
+
+    #side {
+        width: 100%;
+    }
+
+    .paratags {
+        width: 90%;
+        font-size: 12px;
+    }
+
+    .mid_page_content {
+        height: 60vh;
+        padding-top: 0;
+    }
+
+    .mid_page_content div {
+        width: 95%;
+    }
+
+    #welcome {
+        width: 100vw;
+        height: 40%;
+    }
+
+    .midimage {
+        display: none;
+    }
+
+    .paragraph {
+        width: 90vw;
+        height: 80vh;
+    }
+
+    .week {
+        display: none;
+    }
+
+    .days {
+        margin: 20px;
+    }
+
+    footer {
+        width: 100%;
+        clear: left;
+    }
+
+    .lastdiv {
+        width: 100%;
+        height: 120px;
+        font-size: 14px;
+    }
+
+    #contact {
+        padding-left: 19px;
+    }
+
+    #macaron {
+        width: 100vw;
+    }
+
+
+    .midsection {
+        padding: 10px 0 0 10px;
+        background-image: none;
+        width: 95vw;
+    }
+
+    .flavors {
+        width: 50%;
+    }
+
+    .divider {
+        width: 95%;
+        margin-bottom: 24px;
+    }
+
+    .myforms {
+        width: 95%;
+        margin-left: 20px;
+    }
+
+    #mybutton {
+        right: -4px;
+    }
+
+    .picfoot {
+        right: 14px;
+    }
+
+    .picfoot li {
+        padding: 0;
+        margin: 4px 0;
+    }
+
+    h5 {
+        margin-top: 45px;
+    }
+
+}
