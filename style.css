@@ -1,6 +1,15 @@
-body {
-    margin:0 auto;
+
+
+body{
+    text-align: center;
+    margin: 0 auto;
 }
+
+.wrapper{
+    margin: 0 auto;
+    text-align: left;
+}
+
 header {
     width: 1000px;
     height: 72px;
@@ -20,6 +29,11 @@ nav li:hover {
 
 nav ul {
     margin: 25px 40px;
+}
+
+
+a:link {
+    text-decoration: none;
 }
 
 .menu li {
@@ -316,6 +330,9 @@ a {
     body {
         margin: 0;
     }
+    .wrapper{
+
+    }
 
     header {
         width: 100%;
@@ -350,6 +367,10 @@ a {
 
     .midpic {
         display: none;
+    }
+
+    .information{
+        height: 80vh;
     }
 
     .topimg {
